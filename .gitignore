@@ -1,3 +1,10 @@
+# test -> 이 줄은 무시
+
+# 파일명은 상관 없고, 확장자가 work면 관리X
+*.work
+
+
+
 # History files
 .Rhistory
 .Rapp.history
